@@ -1,0 +1,5 @@
+# Configuration notes — merge these concepts into your installed Suricata configuration.
+# HOME_NET should be your own lab subnet.
+# Example: HOME_NET: "[192.168.56.0/24]"
+# Include local.rules in the rule-files section.
+# Enable EVE JSON output for alert monitoring.
