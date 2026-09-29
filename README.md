@@ -8,7 +8,7 @@ This repository contains practical cybersecurity internship deliverables.
 3. **Secure Coding Review** — vulnerability analysis and secure reference code.
 4. **Network Intrusion Detection System** — Suricata rules and lab documentation.
 
-> The internship brief says to complete a minimum of two tasks (and three where required). Four task packages are included here so the repository is complete.
+
 
 ## Repository structure
 - `Task1_Basic_Network_Sniffer/`
